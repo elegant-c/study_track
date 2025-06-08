@@ -1,4 +1,4 @@
-# 📚 学业追踪平台 | Academic Tracker
+# 📚 学业追踪平台 | Study Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Vue](https://img.shields.io/badge/Vue-3.x-brightgreen.svg)
@@ -9,7 +9,7 @@
 
 ## 🌟 项目特色
 - 🔐 **角色认证系统**：学生通过学校信息认证
-- 📊 **数据可视化**：成绩趋势图、
+- 📊 **数据可视化**：GPA趋势图
 - 🤖 **AI学业分析**：基于大模型的成绩预测、学习建议生成
 
 ## 🛠 技术栈
